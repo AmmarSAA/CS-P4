@@ -38,8 +38,8 @@ class Tree:
 
     # c.iii
     def Insert(self, pnode):
-        if pnode < self.__FirstNode {
-            self.__LeftNode = 
+        if pnode < self.__FirstNode.getData() {
+            self.getLeft =
         }
     
     
